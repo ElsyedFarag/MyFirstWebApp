@@ -1,0 +1,370 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyshopwebApplication\\MyshopwebApplication.csproj": {}
+  },
+  "projects": {
+    "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.DataAccess\\MyShop.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.DataAccess\\MyShop.DataAccess.csproj",
+        "projectName": "MyShop.DataAccess",
+        "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.DataAccess\\MyShop.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\win 11\\.nuget\\packages\\",
+        "outputPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj": {
+                "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj"
+              },
+              "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj": {
+                "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Relational": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj",
+        "projectName": "MyShop.Entities",
+        "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj",
+        "packagesPath": "C:\\Users\\win 11\\.nuget\\packages\\",
+        "outputPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.ViewFeatures": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Identity.Stores": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj",
+        "projectName": "MyShop.Etuilities",
+        "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj",
+        "packagesPath": "C:\\Users\\win 11\\.nuget\\packages\\",
+        "outputPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyshopwebApplication\\MyshopwebApplication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyshopwebApplication\\MyshopwebApplication.csproj",
+        "projectName": "MyshopwebApplication",
+        "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyshopwebApplication\\MyshopwebApplication.csproj",
+        "packagesPath": "C:\\Users\\win 11\\.nuget\\packages\\",
+        "outputPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyshopwebApplication\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\win 11\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.DataAccess\\MyShop.DataAccess.csproj": {
+                "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.DataAccess\\MyShop.DataAccess.csproj"
+              },
+              "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj": {
+                "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Entities\\MyShop.Entities.csproj"
+              },
+              "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj": {
+                "projectPath": "D:\\Intrest\\Visual C# Projects\\Web Applications\\MyShop.Web\\MyShop.Etuilities\\MyShop.Etuilities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Identity.UI": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.4, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[8.0.2, )"
+            },
+            "Stripe.net": {
+              "target": "Package",
+              "version": "[45.1.0, )"
+            },
+            "X.PagedList.Mvc.Core": {
+              "target": "Package",
+              "version": "[9.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.202/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

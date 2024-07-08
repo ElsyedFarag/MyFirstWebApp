@@ -1,0 +1,35 @@
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.deps.json
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.pdb
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfoInputs.cache
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfo.cs
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.CoreCompileInputs.cache
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\refint\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.pdb
+D:\Intrest\Visual C# Projects\Console Applications\WebApplication2\MyShop.Entities\obj\Debug\net7.0\ref\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.deps.json
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.pdb
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfoInputs.cache
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfo.cs
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.CoreCompileInputs.cache
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\refint\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.pdb
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\ref\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.AssemblyReference.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.deps.json
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\bin\Debug\net7.0\MyShop.Entities.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.AssemblyReference.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfoInputs.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.AssemblyInfo.cs
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.csproj.CoreCompileInputs.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\refint\MyShop.Entities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\MyShop.Entities.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.Entities\obj\Debug\net7.0\ref\MyShop.Entities.dll

@@ -1,0 +1,328 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Intrest\\Visual C# Projects\\Console Applications\\MyShop.Web\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5123D88D-5539-4C98-B2A0-01710EFA6D1D}|MyShop.DataAccess\\MyShop.DataAccess.csproj|D:\\Intrest\\Visual C# Projects\\Console Applications\\MyShop.Web\\myshop.dataaccess\\data\\datahalper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5123D88D-5539-4C98-B2A0-01710EFA6D1D}|MyShop.DataAccess\\MyShop.DataAccess.csproj|solutionrelative:myshop.dataaccess\\data\\datahalper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:1:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\intrest\\visual c# projects\\console applications\\webapplication2\\webapplication2\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\shared\\_dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\catigory\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:2:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\shared\\_toster.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\intrest\\visual c# projects\\console applications\\webapplication2\\webapplication2\\views\\dashboard\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\catigory\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\catigory\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\catigory\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\intrest\\visual c# projects\\console applications\\webapplication2\\webapplication2\\views\\catigory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\webapplication2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{2d7728c2-de0a-45b5-99aa-89b609dfde73}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CatigoryController.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "ViewState": "AQIAAFYAAABAMTMzMzM9wCYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:53:52.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Program.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:53:52.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAsAAAAAmZmZmZn5vwgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataHalper.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\MyShop.Web\\MyShop.DataAccess\\Data\\DataHalper.cs",
+              "RelativeDocumentMoniker": "MyShop.DataAccess\\Data\\DataHalper.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\MyShop.Web\\MyShop.DataAccess\\Data\\DataHalper.cs",
+              "RelativeToolTip": "MyShop.DataAccess\\Data\\DataHalper.cs",
+              "ViewState": "AQIAAAcAAACAmZmZmZkdwA8AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:59:47.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Program.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Program.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Program.cs",
+              "ViewState": "AQIAABoAAADAZGZmZmYSwCQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T01:39:36.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Controllers\\DashboardController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-11T15:16:17.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:02:40.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Shared\\_Dashboard.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Shared\\_Dashboard.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Shared\\_Dashboard.cshtml",
+              "ViewState": "AQIAAOgAAAAAEAAAAMAlwPgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T21:17:33.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Edit.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Edit.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:57:37.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CatigoryController.cs",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Controllers\\CatigoryController.cs",
+              "ViewState": "AQIAAFMAAABgZWZmZmYwwGAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T23:12:58.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Toster.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Shared\\_Toster.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Shared\\_Toster.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Shared\\_Toster.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Shared\\_Toster.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T23:19:58.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Dashboard\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Dashboard\\Index.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Dashboard\\Index.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Dashboard\\Index.cshtml",
+              "ViewState": "AQIAADICAAB4iDIzM3MvwBEBAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-11T15:17:14.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAABQvS8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T21:36:14.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T21:19:14.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Create.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Create.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Create.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAABAvSIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T21:58:19.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Delete.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Delete.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Delete.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Delete.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T16:17:55.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Details.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Details.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Details.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T15:38:14.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Index.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\Catigory\\Index.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\Catigory\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-09T22:55:10.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-10T21:38:57.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\WebApplication2\\WebApplication2\\appsettings.json",
+              "ToolTip": "D:\\Intrest\\Visual C# Projects\\Console Applications\\WebApplication2\\WebApplication2\\appsettings.json",
+              "RelativeToolTip": "..\\WebApplication2\\WebApplication2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-09T01:35:55.955Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

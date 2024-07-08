@@ -1,0 +1,12 @@
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\bin\Release\net8.0\MyShop.Etuilities.deps.json
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\bin\Release\net8.0\MyShop.Etuilities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\bin\Release\net8.0\MyShop.Etuilities.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.csproj.AssemblyReference.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.AssemblyInfoInputs.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.AssemblyInfo.cs
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.csproj.CoreCompileInputs.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\refint\MyShop.Etuilities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\MyShop.Etuilities.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.Etuilities\obj\Release\net8.0\ref\MyShop.Etuilities.dll

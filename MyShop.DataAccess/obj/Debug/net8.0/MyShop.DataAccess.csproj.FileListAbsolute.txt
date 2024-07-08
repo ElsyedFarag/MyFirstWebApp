@@ -1,0 +1,36 @@
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.deps.json
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.runtimeconfig.json
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.pdb
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Entities.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Entities.pdb
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.AssemblyReference.cache
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfoInputs.cache
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfo.cs
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.D.2D72841A.Up2Date
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\refint\MyShop.DataAccess.dll
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.pdb
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.genruntimeconfig.cache
+D:\Intrest\Visual C# Projects\Console Applications\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\ref\MyShop.DataAccess.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.deps.json
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.runtimeconfig.json
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.DataAccess.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Entities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Etuilities.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Entities.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\bin\Debug\net8.0\MyShop.Etuilities.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.AssemblyReference.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfoInputs.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.AssemblyInfo.cs
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.csproj.CoreCompileInputs.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.D.2D72841A.Up2Date
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\refint\MyShop.DataAccess.dll
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.pdb
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\MyShop.DataAccess.genruntimeconfig.cache
+D:\Intrest\Projj\MyShop.Web\MyShop.DataAccess\obj\Debug\net8.0\ref\MyShop.DataAccess.dll

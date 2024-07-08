@@ -1,0 +1,1073 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\obj\\Release\\net8.0\\scopedcss\\projectbundle\\MyshopwebApplication.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyshopwebApplication.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Ecommerce-Download-PNG.png",
+      "PackagePath": "staticwebassets\\Images\\Ecommerce-Download-PNG.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\01176e5a-5f7a-4906-8efc-c7ee3046d295.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\01176e5a-5f7a-4906-8efc-c7ee3046d295.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\02ca8022-bc15-4fdd-8b4e-755f5054ed27.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\02ca8022-bc15-4fdd-8b4e-755f5054ed27.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\03b199aa-4986-4bcd-81c5-3d09c51685d9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\03b199aa-4986-4bcd-81c5-3d09c51685d9.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\0c93a2c8-fe48-4d68-b513-f619e3ba0a9f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\0c93a2c8-fe48-4d68-b513-f619e3ba0a9f.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\135c5f70-fc34-41d5-8e57-2162883e81be.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\135c5f70-fc34-41d5-8e57-2162883e81be.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\143d60ee-6cf4-4d67-846d-6d6e096e771b.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\143d60ee-6cf4-4d67-846d-6d6e096e771b.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\1aae2ba1-6043-4681-8b4c-01ec092fd231.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1aae2ba1-6043-4681-8b4c-01ec092fd231.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\1ca725de-879a-4fd9-9d62-f164401d9c5c.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\1ca725de-879a-4fd9-9d62-f164401d9c5c.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\1ee2757e-cc1b-4e78-91b8-0c463f196501.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\1ee2757e-cc1b-4e78-91b8-0c463f196501.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\2685d1a1-663a-4bbc-8244-32d1ea8c9eb5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\2685d1a1-663a-4bbc-8244-32d1ea8c9eb5.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\28ad44e2-a4bc-421c-b382-73c3d484e72d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\28ad44e2-a4bc-421c-b382-73c3d484e72d.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\3b9b419d-fea9-4895-96e0-0a85501c2111.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\3b9b419d-fea9-4895-96e0-0a85501c2111.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\4152b10f-f942-4dfd-9c89-ba540c405d46.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4152b10f-f942-4dfd-9c89-ba540c405d46.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\430e2d6d-0db1-44b0-9018-c2f592a73bef.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\430e2d6d-0db1-44b0-9018-c2f592a73bef.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\4393719d-e307-4176-9c46-65a0ff436d3f.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4393719d-e307-4176-9c46-65a0ff436d3f.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\441e8d20-3f3b-4dc3-bd17-f51fb74a1f1c.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\441e8d20-3f3b-4dc3-bd17-f51fb74a1f1c.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\4c55f478-1244-4de7-8ebf-17ddefe43f12.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\4c55f478-1244-4de7-8ebf-17ddefe43f12.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\51d2feb1-fb53-4517-b208-f0e992b3f923.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\51d2feb1-fb53-4517-b208-f0e992b3f923.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\5aaf6946-5ecb-4258-97ad-f411bf820f07.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\5aaf6946-5ecb-4258-97ad-f411bf820f07.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\5ee3d7ab-e74d-4842-94fd-5bd1e3987bdc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\5ee3d7ab-e74d-4842-94fd-5bd1e3987bdc.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\5f1313c7-5863-4169-98a5-b254ea405c7a.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\5f1313c7-5863-4169-98a5-b254ea405c7a.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\5fd764fa-bf97-423a-ad99-31c0215d9ed7.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\5fd764fa-bf97-423a-ad99-31c0215d9ed7.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\605ca416-45c7-4744-8b00-23bb3a6b9b92.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\605ca416-45c7-4744-8b00-23bb3a6b9b92.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\62a6da21-948f-414f-997f-dda6f5a3c6b2.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\62a6da21-948f-414f-997f-dda6f5a3c6b2.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\63f23b52-6c7a-4837-9ad9-588fa6d5781d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\63f23b52-6c7a-4837-9ad9-588fa6d5781d.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\6496e6c7-6004-4691-bd05-bae32f763b52.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\6496e6c7-6004-4691-bd05-bae32f763b52.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\71783f90-5713-45c7-bb99-4eb8926a3cc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\71783f90-5713-45c7-bb99-4eb8926a3cc1.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\790f9841-2af5-4c5b-b9b7-5bc43dc589aa.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\790f9841-2af5-4c5b-b9b7-5bc43dc589aa.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\81435bba-a86e-4f8b-af76-dbe5010884cb.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\81435bba-a86e-4f8b-af76-dbe5010884cb.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\82552e3a-12f3-4dc0-9bf7-7f7898451c2a.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\82552e3a-12f3-4dc0-9bf7-7f7898451c2a.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\832f32f8-0a0d-4dfc-904c-28c5551db2fd.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\832f32f8-0a0d-4dfc-904c-28c5551db2fd.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\8840ad7b-bdf7-4843-b903-7b1f6daab696.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\8840ad7b-bdf7-4843-b903-7b1f6daab696.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\91ef599f-a480-4d21-bcd1-15127b96a014.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\91ef599f-a480-4d21-bcd1-15127b96a014.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\94a3646c-57ce-4ada-a721-abb94a29ebc1.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\94a3646c-57ce-4ada-a721-abb94a29ebc1.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\965712de-9cd5-41bd-8412-b49bef01cd80.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\965712de-9cd5-41bd-8412-b49bef01cd80.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\9817aacd-e759-4d3c-a08e-ea934ab5c9b6.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\9817aacd-e759-4d3c-a08e-ea934ab5c9b6.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\9cf904aa-9543-43f4-9513-13280843ad09.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\9cf904aa-9543-43f4-9513-13280843ad09.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\9fc43e9e-93ec-414d-a553-a22010e95e10.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\9fc43e9e-93ec-414d-a553-a22010e95e10.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\Ecommerce-Download-PNG.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\Ecommerce-Download-PNG.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\a5a155be-1b47-41fd-beae-6a2ef594ec3e.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\a5a155be-1b47-41fd-beae-6a2ef594ec3e.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\aa51d0de-32d6-44bb-9a67-8b6481dcc121.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\aa51d0de-32d6-44bb-9a67-8b6481dcc121.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\ad69e3f9-807c-42ae-a0b1-ab2ac4572ac2.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\ad69e3f9-807c-42ae-a0b1-ab2ac4572ac2.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\b46a1fea-f107-4efe-b688-89db733c4111.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b46a1fea-f107-4efe-b688-89db733c4111.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\b68d3670-8880-46a8-ac45-72b94fd861a5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b68d3670-8880-46a8-ac45-72b94fd861a5.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\b7198984-e9c4-4330-b332-21cd6f8629d5.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b7198984-e9c4-4330-b332-21cd6f8629d5.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\b75d0bfc-4498-4185-94b5-48619e12b3bc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\b75d0bfc-4498-4185-94b5-48619e12b3bc.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\bac05e6e-c3d2-46cb-9ed6-a9dacdc06b09.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\bac05e6e-c3d2-46cb-9ed6-a9dacdc06b09.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\be2eaebd-f576-447c-a388-454de4738c56.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\be2eaebd-f576-447c-a388-454de4738c56.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\c3cf1898-e769-412a-8f31-465995f20b1d.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c3cf1898-e769-412a-8f31-465995f20b1d.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\c6c32061-be18-490c-bb76-2f465679cbbc.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\c6c32061-be18-490c-bb76-2f465679cbbc.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\c8e956ed-796b-4189-a214-20791033228e.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\c8e956ed-796b-4189-a214-20791033228e.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\cc2a996d-b42c-4811-a3ab-1436f7065669.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\cc2a996d-b42c-4811-a3ab-1436f7065669.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\d02fefa4-783a-4e6a-913b-083369b65e84.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\d02fefa4-783a-4e6a-913b-083369b65e84.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\d89a8755-bae1-4e5c-94c6-b54e807effec.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\d89a8755-bae1-4e5c-94c6-b54e807effec.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\e3839516-3699-40c7-83ae-c4d99c776b87.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\e3839516-3699-40c7-83ae-c4d99c776b87.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\edeee320-ca8f-4f4e-ac1a-5e7a1ae1fb3d.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\edeee320-ca8f-4f4e-ac1a-5e7a1ae1fb3d.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\f43437d3-3205-469c-afca-713454e07647.png",
+      "PackagePath": "staticwebassets\\Images\\Products\\f43437d3-3205-469c-afca-713454e07647.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\fc8e4673-fff2-422e-9688-38fa447addfe.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\fc8e4673-fff2-422e-9688-38fa447addfe.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\fcbbd7fc-9e49-4e85-a13a-02faf6bfd1d9.jpg",
+      "PackagePath": "staticwebassets\\Images\\Products\\fcbbd7fc-9e49-4e85-a13a-02faf6bfd1d9.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\fdac527a-4d5f-49b2-b325-dd7bf2a54970.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\fdac527a-4d5f-49b2-b325-dd7bf2a54970.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\Products\\fe3fbe3b-9788-485c-a8fb-15f18d710324.webp",
+      "PackagePath": "staticwebassets\\Images\\Products\\fe3fbe3b-9788-485c-a8fb-15f18d710324.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\icons8-box-64 (1).png",
+      "PackagePath": "staticwebassets\\Images\\icons8-box-64 (1).png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\icons8-category-80.png",
+      "PackagePath": "staticwebassets\\Images\\icons8-category-80.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\icons8-people-50.png",
+      "PackagePath": "staticwebassets\\Images\\icons8-people-50.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\icons8-product-80.png",
+      "PackagePath": "staticwebassets\\Images\\icons8-product-80.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\icons8-user-64.png",
+      "PackagePath": "staticwebassets\\Images\\icons8-user-64.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\icons8-users-50.png",
+      "PackagePath": "staticwebassets\\Images\\icons8-users-50.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\login@4x-1024x904.webp",
+      "PackagePath": "staticwebassets\\Images\\login@4x-1024x904.webp"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\not-found.svg",
+      "PackagePath": "staticwebassets\\Images\\not-found.svg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\shoppingEmpty.png",
+      "PackagePath": "staticwebassets\\Images\\shoppingEmpty.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\Images\\user-phpto.png",
+      "PackagePath": "staticwebassets\\Images\\user-phpto.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\assets\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\css\\StyleSheet.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\cartStyle.css",
+      "PackagePath": "staticwebassets\\css\\cartStyle.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\styleShop.css",
+      "PackagePath": "staticwebassets\\css\\styleShop.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\adminlte.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\adminlte.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\adminlte.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\adminlte.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\adminlte.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.components.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.core.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.core.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.core.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.core.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.extra-components.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.extra-components.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.light.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.light.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.light.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.light.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.pages.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.pages.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.pages.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.pages.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.plugins.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\css\\alt\\adminlte.plugins.min.css.map",
+      "PackagePath": "staticwebassets\\dist\\css\\alt\\adminlte.plugins.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\AdminLTELogo.png",
+      "PackagePath": "staticwebassets\\dist\\img\\AdminLTELogo.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\avatar.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\avatar2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar2.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\avatar3.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar3.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\avatar4.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar4.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\avatar5.png",
+      "PackagePath": "staticwebassets\\dist\\img\\avatar5.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\boxed-bg.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\boxed-bg.png",
+      "PackagePath": "staticwebassets\\dist\\img\\boxed-bg.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\credit\\american-express.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\american-express.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\credit\\cirrus.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\cirrus.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\credit\\mastercard.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\mastercard.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\credit\\paypal.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\credit\\paypal2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\paypal2.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\credit\\visa.png",
+      "PackagePath": "staticwebassets\\dist\\img\\credit\\visa.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\default-150x150.png",
+      "PackagePath": "staticwebassets\\dist\\img\\default-150x150.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\icons.png",
+      "PackagePath": "staticwebassets\\dist\\img\\icons.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\photo1.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo1.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\photo2.png",
+      "PackagePath": "staticwebassets\\dist\\img\\photo2.png"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\photo3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo3.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\photo4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\photo4.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\prod-1.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-1.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\prod-2.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-2.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\prod-3.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-3.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\prod-4.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-4.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\prod-5.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\prod-5.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user1-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user1-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user2-160x160.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user2-160x160.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user3-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user3-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user4-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user4-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user5-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user5-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user6-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user6-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user7-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user7-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\img\\user8-128x128.jpg",
+      "PackagePath": "staticwebassets\\dist\\img\\user8-128x128.jpg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\.eslintrc.json",
+      "PackagePath": "staticwebassets\\dist\\js\\.eslintrc.json"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\adminlte.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\adminlte.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\adminlte.min.js",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\adminlte.min.js.map",
+      "PackagePath": "staticwebassets\\dist\\js\\adminlte.min.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\demo.js",
+      "PackagePath": "staticwebassets\\dist\\js\\demo.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\pages\\dashboard.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\pages\\dashboard2.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard2.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\dist\\js\\pages\\dashboard3.js",
+      "PackagePath": "staticwebassets\\dist\\js\\pages\\dashboard3.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\js\\notification.js",
+      "PackagePath": "staticwebassets\\js\\notification.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\js\\order.js",
+      "PackagePath": "staticwebassets\\js\\order.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\js\\product.js",
+      "PackagePath": "staticwebassets\\js\\product.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\js\\scripts.js",
+      "PackagePath": "staticwebassets\\js\\scripts.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-theme.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\plugins\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\plugins\\fontawesome-free\\webfonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\jquery\\jquery.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\jquery\\jquery.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\jquery\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\jquery\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\plugins\\jquery\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\plugins\\jquery\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\Intrest\\Projj\\MyShop.Web\\MyshopwebApplication\\wwwroot\\shoping\\styles.css",
+      "PackagePath": "staticwebassets\\shoping\\styles.css"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.MyshopwebApplication.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.build.MyshopwebApplication.props",
+      "PackagePath": "build\\MyshopwebApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyshopwebApplication.props",
+      "PackagePath": "buildMultiTargeting\\MyshopwebApplication.props"
+    },
+    {
+      "Id": "obj\\Release\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyshopwebApplication.props",
+      "PackagePath": "buildTransitive\\MyshopwebApplication.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

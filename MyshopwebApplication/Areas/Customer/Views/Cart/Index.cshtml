@@ -1,0 +1,70 @@
+﻿@model ShoppingCartView
+<div class="row">
+    @{
+        if (Model.shopingCarts == null || !Model.shopingCarts.Any())
+        {
+
+            <div class="Container row">
+
+                <div class="col-12 text-center">
+
+                    <br />
+                    <h4>Shopping Cart Is Empty!!</h4>
+                    <br />
+                    <img src="~/images/shoppingempty.png" style="width:400px;height:400px" />
+                    <br />
+                    <br />
+                    <br />
+                    <a class="btn btn-dark" asp-action="Index" asp-controller="Customer" asp-area="Customer" >Continue Shopping</a>
+                    <br />
+                    <br />
+                </div>
+            </div>
+        }
+        else
+        {
+            <div class="col-md-9" style="margin: auto; margin-top: 30px; margin-bottom: 30px;">
+                <div>
+                    <div class="cart-header">
+                        <h2>Shopping Cart</h2>
+                        <a class="btn btn-secondary" href="/customer/Customer/Index">Continue Shopping</a>
+                    </div>
+                    @foreach (var item in Model.shopingCarts)
+                    {
+                        <div class="cart-item">
+                            <img src="~/@item.Product.Img" alt="@item.Product.Name">
+                            <div class="cart-item-details" style="width: 440px;">
+                                <h4>@item.Product.Name</h4>
+                                <p>@Html.Raw(item.Product.Description)</p>
+                            </div>
+                            <div class="cart-item-price" style="margin-right:30px;">
+                                <h4>$@item.Product.Price.ToString("F2")</h4>
+                                <p>x @item.Count</p>
+                            </div>
+                            <div class="cart-item-actions">
+                                <div style="margin-right:130px">
+                                    <a class="btn btn-dark" style="width: 45px; height: 45px;" href="/customer/Cart/AddPlus/@item.Id">
+                                        <i class="fa-solid fa-plus"></i>
+                                    </a>
+                                    <a class="btn btn-dark" style="width: 45px; height: 45px;" href="/customer/Cart/AddMins/@item.Id">
+                                        <i class="fa-solid fa-minus"></i>
+                                    </a>
+                                </div>
+                                <a class="btn btn-danger" style="margin-right: 70px; width: 45px; height: 45px;background-color:#C90524" href="/customer/Cart/Delete/@item.Id">
+                                    <i class="fa-solid fa-trash-can"></i>
+                                </a>
+                            </div>
+                        </div>
+                    }
+                    <div class="cart-footer" style="padding:20px; display: flex; align-items: center; justify-content: end;">
+                        <div class="total-container" style="margin-right:10px; width: 350px;">
+                            <span class="total-label">Total (USD)</span>
+                            <span class="total-amount" style="margin-left:120px">$@Model.TotalPrice.ToString("F2")</span>
+                        </div>
+                        <a class="btn btn-primary" style="width:210px;" asp-action="Summary" asp-controller="Cart" asp-area="customer">Summary</a>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

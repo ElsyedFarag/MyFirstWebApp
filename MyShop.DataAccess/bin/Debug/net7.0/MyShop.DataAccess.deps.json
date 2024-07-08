@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MyShop.DataAccess/1.0.0": {
+        "dependencies": {
+          "MyShop.Entities": "1.0.0"
+        },
+        "runtime": {
+          "MyShop.DataAccess.dll": {}
+        }
+      },
+      "MyShop.Entities/1.0.0": {
+        "runtime": {
+          "MyShop.Entities.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MyShop.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MyShop.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

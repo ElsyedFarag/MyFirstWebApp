@@ -1,0 +1,65 @@
+﻿@{
+    if (TempData["Title"] != null)
+    {
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["error"]("Catigory has deleted succesfully")
+        </script>
+    }
+    if (TempData["TitleCreate"] != null)
+    {
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["success"]("Catigory has create succesfully")
+        </script>
+    }
+    if (TempData["Update"] != null)
+    {
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["success"]("Catigory has update succesfully")
+        </script>
+    }
+    if (TempData["UpdateOrder"] != null)
+    {
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["success"]("Order has been update successfully")
+        </script>
+    }
+    if (TempData["OrderProcess"] != null)
+    {
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["info"]("Order Status Processing Successfully")
+        </script>
+    }
+    if (TempData["OrderShip"] != null)
+    {
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["success"]("Order Status Shipping Successfully")
+        </script>
+    }
+    if (TempData["OrderCancel"] != null)
+    {
+
+        <script src="~/lib/jquery/dist/jquery.min.js"></script>
+        <script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+        <script type="text/javascript">
+            toastr["success"]("Order Status Cancelled Successfully")
+        </script>
+    }
+    
+}
